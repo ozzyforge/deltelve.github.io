@@ -1,1 +1,9 @@
-Hello, i will be placing download links inside of this. if you are looking for downloads, please use the download links provided within the Discord. thanks (:
+# hello
+Hello, this is the downloads page.
+# requirements
+Deltelve requires Fabric API. This is the only requirement and (hopefuly) i will continue to develop
+
+| Game Version | Modloader | Mod Version | Download Link |
+| :-: | :-: | :-: | :-: |
+| 1.21.4 | Fabric | 25w34a | [Deltelve 25w34a](https://www.red-flower-mc.net/downloads/deltelve-25w34a.jar) |
+| - | - | - | - |
