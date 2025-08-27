@@ -1,1 +1,0 @@
-# deltelve.github.io
