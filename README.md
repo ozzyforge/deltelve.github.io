@@ -3,7 +3,7 @@ Hello, this is the downloads page.
 # requirements
 Deltelve requires Fabric API. This is the only requirement and (hopefuly) i will continue to develop
 
-# [Planned changes](https://www.red-flower-mc.net/plannedChanges/25w3Xa.md)
+[Planned changes](https://www.red-flower-mc.net/plannedChanges/25w3Xa.html)
 
 # Downloads
 | Game Version | Modloader | Mod Version | Download Link | changelog |
