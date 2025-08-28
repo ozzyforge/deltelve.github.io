@@ -1,9 +1,7 @@
-# hello
-Hello, this is the downloads page.
+# Downloads
+This page contains downloads, and various other things pertaining to the process
 # requirements
 Deltelve requires Fabric API. This is the only requirement and (hopefuly) i will continue to develop
-
-[Planned changes](https://www.red-flower-mc.net/plannedChanges/25w3Xa.html)
 
 # downloads
 
